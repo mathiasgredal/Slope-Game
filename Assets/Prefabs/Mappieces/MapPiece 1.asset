@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a9a40844fa4f4c49bd730e5a769025f, type: 3}
+  m_Name: MapPiece 1
+  m_EditorClassIdentifier: 
+  mapPieceName: Straight
+  lenghtToBack: 5
+  lengthToFront: 5.25
+  sideMovement: 1
+  pos: {x: 108.284996, y: -14.599999, z: -0.96410155}
+  powerUpPos: {x: 4.5, y: 1.25, z: 0}

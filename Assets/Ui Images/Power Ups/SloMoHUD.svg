@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   id="svg4168"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SloMoHUD.svg"
+   inkscape:export-filename="/Users/mathiasgredal/Google Drive/Spil/Slope/Assets/Ui Images/Power Ups/SloMoHUD.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4170">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4197">
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0"
+         id="stop4199" />
+      <stop
+         id="stop4207"
+         offset="0.89476389"
+         style="stop-color:#000000;stop-opacity:0.85882354" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop4201" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4197"
+       id="radialGradient4205"
+       cx="180.0623"
+       cy="118.01871"
+       fx="180.0623"
+       fy="118.01871"
+       r="64.354393"
+       gradientTransform="matrix(2.3281824,-0.02161552,0.02142696,2.3078706,-274.34045,-163.05129)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.61399264"
+     inkscape:cx="478.48346"
+     inkscape:cy="419.68969"
+     inkscape:current-layer="layer1"
+     id="namedview4172"
+     showgrid="false"
+     inkscape:window-width="1286"
+     inkscape:window-height="764"
+     inkscape:window-x="-3"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4174">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:1">
+    <rect
+       style="fill:url(#radialGradient4205);fill-opacity:1"
+       id="rect4195"
+       width="299.67047"
+       height="210.6144"
+       x="-2.4290104"
+       y="0.12125162"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Users/mathiasgredal/Google Drive/Spil/Slope/Assets/Ui Images/rect4195.png" />
+  </g>
+</svg>

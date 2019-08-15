@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 368b5c7fe50049e469eaac6d5ec27a2f
+timeCreated: 1447459320
+licenseType: Store
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder:
+    uCPf.ColorInputField: 400
+    uCPf.ColorPicker: -100
+    uCPf.GradationRect: 200
+    uCPf.GradationUI: 300
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
