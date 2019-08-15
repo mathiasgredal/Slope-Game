@@ -9,3 +9,5 @@ Keys:
   Press ESC for pausing
   
 Online demo: 
+
+Download: https://github.com/mathiasgredal/Slope-Game/releases
