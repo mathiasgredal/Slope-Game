@@ -8,6 +8,6 @@ Keys:
   Press R for quick restart(glitchy)
   Press ESC for pausing
   
-Online demo: 
+Online demo: https://mathiasgredal.github.io/Slope-Game/
 
 Download: https://github.com/mathiasgredal/Slope-Game/releases
